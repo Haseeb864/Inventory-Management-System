@@ -1,0 +1,14 @@
+{
+  "socketPath": "\\\\.\\pipe\\mcp-e3e73608-9b2b-4c64-84bf-6b2db8a777d1.sock",
+  "scheme": "pipe",
+  "headers": {
+    "Authorization": "Nonce e8b12787-32de-4057-b6fb-117c9f0bb424"
+  },
+  "pid": 17464,
+  "ideName": "Visual Studio Code",
+  "timestamp": 1771220063977,
+  "workspaceFolders": [
+    "c:\\Users\\SB"
+  ],
+  "isTrusted": true
+}

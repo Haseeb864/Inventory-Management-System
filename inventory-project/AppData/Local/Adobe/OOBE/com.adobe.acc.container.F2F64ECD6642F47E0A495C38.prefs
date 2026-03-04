@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<prefs>
+	<property key="ARSGuid">ce2a2940-6c72-4fcb-beb3-120d5b0d2006</property>
+	<property key="CCDQuickActions_STATUS_LIGHT">false</property>
+	<property key="CCDQuickActionsTab">true</property>
+	<property key="ccd.container.firstlaunch">true</property>
+	<property key="CCDHome_STATUS_LIGHT">true</property>
+	<property key="appsPanelVisibilityAnalytics">enabled</property>
+	<property key="CCD_MARKETPLACE_NEW_STATUS_LIGHT">OFF</property>
+	<property key="ccd.container.whatsNewModal.GENERAL-ALL-APP-ANY-MAX-Miami-PHSP2-WIN-CCD-20240916">GENERAL-ALL-APP-ANY-MAX-Miami-PHSP2-WIN-CCD-20240916</property>
+	<property key="ccd.container.whatsNewModal.GENERAL-ALL-CRE-ANY-WNMCCDBF-20241115">GENERAL-ALL-CRE-ANY-WNMCCDBF-20241115</property>
+	<property key="ccd.container.whatsNewModal.1">1</property>
+</prefs>

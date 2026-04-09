@@ -23,7 +23,7 @@
 
 
 
-    
+
     // LOGIN VIA FORM
     cy.xpath("//input[@id='email']").should('be.visible')
       .type('pirzadahaseeb717+aaa-14@gmail.com')
@@ -77,7 +77,7 @@
     cy.wait(2000)
 
     cy.get('.DDTopElement').should('be.visible').contains('Add New').click()
-
+//imhhjsgdjsdh
     // IMAGE UPLOAD
     cy.get('input[type="file"]').attachFile('PROFILE.jpg')
     cy.xpath('//button[@id="next-btn"]').contains('Save Original').should('be.visible').click()

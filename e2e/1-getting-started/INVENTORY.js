@@ -455,6 +455,7 @@ const invoiceTestcase07 = () => {
   cy.xpath('//a[@class="ims-nav--link ims-nav--link active"]').should('be.visible').click()
   cy.xpath('//img[@id="currentOrg_logo"]').should('be.visible').click()
   cy.xpath('//button[@id="click_signout_button"]').should('be.visible').click()
+  cy.xpath('//button[@id="click_signout_button"]').should("have", 'how')
 
 }
 
@@ -639,7 +640,9 @@ const invoiceTestcase11 = () => {
   cy.clearCookies()
   cy.clearLocalStorage()
 
-  cy.loginIMS()
+  //cy.loginIMS()
+ cy.visit('https://www.seebiz.cloud/')
+  
 
 }
 
@@ -659,3 +662,10 @@ export {
   invoiceTestcase10,
   invoiceTestcase11
 }
+
+
+
+
+
+const has
+ = document.getElementsByTagName('input')

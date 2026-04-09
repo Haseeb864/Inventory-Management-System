@@ -60,7 +60,7 @@ describe('IMS Test Runner', () => {
     invoiceTestcase10()
   })
 
-  it.only('Invoice Testcase 11', () => {
+  it('Invoice Testcase 11', () => {
     invoiceTestcase11()
   })
 

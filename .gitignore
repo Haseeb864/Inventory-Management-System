@@ -15,6 +15,7 @@ cypress/support/downloads/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+*.log
 
 # OS-specific files
 .DS_Store
@@ -28,3 +29,8 @@ Thumbs.db
 *.tmp
 *.temp
 *.swp
+
+# Build folders
+dist/
+build/
+logs/

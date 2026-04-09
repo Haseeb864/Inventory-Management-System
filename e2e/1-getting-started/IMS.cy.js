@@ -21,6 +21,9 @@
       failOnStatusCode: false
     })
 
+
+
+    
     // LOGIN VIA FORM
     cy.xpath("//input[@id='email']").should('be.visible')
       .type('pirzadahaseeb717+aaa-14@gmail.com')
